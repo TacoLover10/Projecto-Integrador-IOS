@@ -5,8 +5,3 @@ Aguirre Reyes Luis Fernando
 Avalos Galindo Marcos Antonio
 Ricardo Tomas Regalado Guerrero
 
-
-
- git config --global user.email "ruiseart95@gmail.com"
-
-g
