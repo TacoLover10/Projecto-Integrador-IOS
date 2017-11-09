@@ -9,4 +9,4 @@ Ricardo Tomas Regalado Guerrero
 
  git config --global user.email "ruiseart95@gmail.com"
 
-git config --global user.name "Ricardo"
+g
