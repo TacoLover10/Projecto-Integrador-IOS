@@ -5,3 +5,5 @@ Aguirre Reyes Luis Fernando
 Avalos Galindo Marcos Antonio
 Ricardo Tomas Regalado Guerrero
 
+Agreguen al maestro de programacion Ramses
+
